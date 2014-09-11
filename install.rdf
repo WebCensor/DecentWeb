@@ -5,11 +5,11 @@
 
   <Description about="urn:mozilla:install-manifest">
     <em:id>contact@larose.pro</em:id>
-    <em:name>Anti-loli</em:name>
-    <em:description>Anti-loli global protection!</em:description>
+    <em:name>DecentWeb</em:name>
+    <em:description>DecentWeb try to censor every illegal image/video/site you may open!</em:description>
     <em:version>0.1</em:version>
     <em:creator>LN</em:creator>
-    <em:homepageURL>https://github.com/JAHGuide/AntiLoli</em:homepageURL>
+    <em:homepageURL>https://github.com/WebCensor/DecentWeb</em:homepageURL>
     <em:type>2</em:type>
 	<em:iconURL>chrome://xulschoolhello/skin/icon.png</em:iconURL>
 	<em:iconURL64>chrome://xulschoolhello/skin/icon64.png</em:iconURL64>	
